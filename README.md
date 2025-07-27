@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-I'm <strong>Hani</strong>, currently pursuing a <strong>Master's in Data Science</strong> with a keen interest in real-world applications of Social Network Analysis, Data Analytics, and Intelligent Systems. I enjoy solving problems using Python, building smart systems, and constantly learning new tools and technologies.
+I'm <strong>Hani</strong>, currently pursuing a <strong>Master's in Data Science</strong> with a keen interest in real-world applications of Web Scraping, Social Network Analysis, Data Analytics, and Machine Learning. I enjoy solving problems using Python, building smart systems, and constantly learning new tools and technologies.
 </p>
 
 ---
@@ -9,10 +9,11 @@ I'm <strong>Hani</strong>, currently pursuing a <strong>Master's in Data Science
 <h2 align="left">🧑‍💻 About Me</h2>
 
 <ul align="left">
-  <li>🛠️ Experienced in data analysis, visualization, and IoT-based solutions</li>
+  <li>🛠️ Experienced in data cleaning, data analysis, visualization, and IoT-based solutions</li>
+  <li>🔍 Skilled in web scraping using Python (BeautifulSoup, Selenium)</li>
   <li>📚 Currently exploring: Deep Learning, Model Deployment, and Social Network Analysis</li>
   <li>🎯 Career Goal: To become a full-stack Data Scientist and freelance Python developer</li>
-  <li>🎓 Background in mathematics with hands-on project work in smart systems</li>
+  <li>🎓 Background in mathematics with hands-on project work in smart systems and data-driven applications</li>
 </ul>
 
 ---
@@ -21,7 +22,7 @@ I'm <strong>Hani</strong>, currently pursuing a <strong>Master's in Data Science
 
 <ul align="left">
   <li>📧 Email: hanibinterauf@gmail.com</li>
-  <li>💼 Open to: Freelance and internship opportunities in Data Analysis and Visualization, Social Network Analysis, and IoT</li>
+  <li>💼 Open to: Freelance and internship opportunities in Data Analysis and Visualization, Social Network Analysis, Web Scraping, and IoT</li>
 </ul>
 
 ---
