@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-I'm <strong>Hani</strong>, currently pursuing a <strong>Master's in Data Science</strong> with a keen interest in real-world applications of Web Scraping, Social Network Analysis, Data Analytics, and Machine Learning. I enjoy solving problems using Python, building smart systems, and constantly learning new tools and technologies.
+I'm <strong>Hani</strong>, currently pursuing a <strong>Master's in Data Science</strong> with a strong focus on data cleaning, analysis, visualization (2D & 3D), and applying machine learning models to uncover insights. I enjoy working with real-world datasets and continuously learning new tools and techniques in Python.
 </p>
 
 ---
@@ -9,11 +9,11 @@ I'm <strong>Hani</strong>, currently pursuing a <strong>Master's in Data Science
 <h2 align="left">🧑‍💻 About Me</h2>
 
 <ul align="left">
-  <li>🛠️ Experienced in data cleaning, data analysis, visualization, and IoT-based solutions</li>
-  <li>🔍 Skilled in web scraping using Python (BeautifulSoup, Selenium)</li>
-  <li>📚 Currently exploring: Deep Learning, Model Deployment, and Social Network Analysis</li>
-  <li>🎯 Career Goal: To become a full-stack Data Scientist and freelance Python developer</li>
-  <li>🎓 Background in mathematics with hands-on project work in smart systems and data-driven applications</li>
+  <li>📊 Experienced in data cleaning, preprocessing, analysis, and visualization using Python</li>
+  <li>📈 Create compelling 2D and 3D data visualizations using libraries like Matplotlib, Seaborn, and Plotly</li>
+  <li>🧠 Skilled in building and evaluating machine learning models for predictive analysis</li>
+  <li>🛠️ Proficient in tools like Jupyter, Pandas, NumPy, and Scikit-learn</li>
+  <li>🎓 Background in mathematics with hands-on experience in applied data science projects</li>
 </ul>
 
 ---
@@ -22,7 +22,8 @@ I'm <strong>Hani</strong>, currently pursuing a <strong>Master's in Data Science
 
 <ul align="left">
   <li>📧 Email: hanibinterauf@gmail.com</li>
-  <li>💼 Open to: Freelance and internship opportunities in Data Analysis and Visualization, Social Network Analysis, Web Scraping, and IoT</li>
+  <li>💼 Open to: Freelance and internship opportunities in Data Analysis, Visualization, and Machine Learning</li>
+  <li>🛠️ Hire me on Fiverr: <a href="https://www.fiverr.com/hani_binte_rauf" target="_blank">fiverr.com/hani_binte_rauf</a></li>
 </ul>
 
 ---
@@ -35,10 +36,6 @@ I'm <strong>Hani</strong>, currently pursuing a <strong>Master's in Data Science
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40" alt="jupyter logo" />
   <img width="12" />
